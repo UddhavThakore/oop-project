@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.authenticationservice.util;
+package com.alpha.ecommerce.authenticationservice.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
