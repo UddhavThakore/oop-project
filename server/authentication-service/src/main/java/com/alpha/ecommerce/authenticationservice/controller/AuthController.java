@@ -1,14 +1,14 @@
-package com.ujjaval.ecommerce.authenticationservice.controller;
+package com.alpha.ecommerce.authenticationservice.controller;
 
-import com.ujjaval.ecommerce.authenticationservice.entity.UserInfo;
-import com.ujjaval.ecommerce.authenticationservice.model.AccountCreationRequest;
-import com.ujjaval.ecommerce.authenticationservice.model.AccountCreationResponse;
-import com.ujjaval.ecommerce.authenticationservice.model.AuthenticationRequest;
-import com.ujjaval.ecommerce.authenticationservice.model.AuthenticationResponse;
-import com.ujjaval.ecommerce.authenticationservice.service.AuthDataService;
-import com.ujjaval.ecommerce.authenticationservice.service.CustomUserDetailsService;
-import com.ujjaval.ecommerce.authenticationservice.util.JwtUtil;
-import com.ujjaval.ecommerce.authenticationservice.util.Md5Util;
+import com.alpha.ecommerce.authenticationservice.entity.UserInfo;
+import com.alpha.ecommerce.authenticationservice.model.AccountCreationRequest;
+import com.alpha.ecommerce.authenticationservice.model.AccountCreationResponse;
+import com.alpha.ecommerce.authenticationservice.model.AuthenticationRequest;
+import com.alpha.ecommerce.authenticationservice.model.AuthenticationResponse;
+import com.alpha.ecommerce.authenticationservice.service.AuthDataService;
+import com.alpha.ecommerce.authenticationservice.service.CustomUserDetailsService;
+import com.alpha.ecommerce.authenticationservice.util.JwtUtil;
+import com.alpha.ecommerce.authenticationservice.util.Md5Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.InputStreamResource;

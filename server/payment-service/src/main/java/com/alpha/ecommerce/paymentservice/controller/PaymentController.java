@@ -1,11 +1,11 @@
-package com.ujjaval.ecommerce.paymentservice.controller;
+package com.alpha.ecommerce.paymentservice.controller;
 
 import com.stripe.Stripe;
 import com.stripe.exception.StripeException;
 import com.stripe.model.Charge;
 import com.stripe.param.ChargeCreateParams;
-import com.ujjaval.ecommerce.paymentservice.dto.CardToken;
-import com.ujjaval.ecommerce.paymentservice.dto.PaymentStatus;
+import com.alpha.ecommerce.paymentservice.dto.CardToken;
+import com.alpha.ecommerce.paymentservice.dto.PaymentStatus;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;

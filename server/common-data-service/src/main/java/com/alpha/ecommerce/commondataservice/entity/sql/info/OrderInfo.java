@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.info;
+package com.alpha.ecommerce.commondataservice.entity.sql.info;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.images;
+package com.alpha.ecommerce.commondataservice.entity.sql.images;
 
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

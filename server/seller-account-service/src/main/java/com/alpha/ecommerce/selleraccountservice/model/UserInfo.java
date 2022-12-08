@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.selleraccountservice.model;
+package com.alpha.ecommerce.selleraccountservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

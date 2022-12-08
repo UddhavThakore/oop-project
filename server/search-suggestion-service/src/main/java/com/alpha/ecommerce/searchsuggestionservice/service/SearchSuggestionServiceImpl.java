@@ -1,7 +1,7 @@
-package com.ujjaval.ecommerce.searchsuggestionservice.service;
+package com.alpha.ecommerce.searchsuggestionservice.service;
 
-import com.ujjaval.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
-import com.ujjaval.ecommerce.searchsuggestionservice.util.Permutation;
+import com.alpha.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
+import com.alpha.ecommerce.searchsuggestionservice.util.Permutation;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;

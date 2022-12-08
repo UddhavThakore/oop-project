@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.config;
+package com.alpha.ecommerce.commondataservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

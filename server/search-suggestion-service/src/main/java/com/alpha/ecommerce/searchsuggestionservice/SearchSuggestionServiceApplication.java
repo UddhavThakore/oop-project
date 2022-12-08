@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.searchsuggestionservice;
+package com.alpha.ecommerce.searchsuggestionservice;
 
-import com.ujjaval.ecommerce.searchsuggestionservice.controller.SearchSuggestionController;
+import com.alpha.ecommerce.searchsuggestionservice.controller.SearchSuggestionController;
 import org.json.JSONException;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

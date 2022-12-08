@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.dao.sql.info;
+package com.alpha.ecommerce.commondataservice.dao.sql.info;
 
-import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ContactInfo;
+import com.alpha.ecommerce.commondataservice.entity.sql.info.ContactInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.dao.sql.info.queryhelpers;
+package com.alpha.ecommerce.commondataservice.dao.sql.info.queryhelpers;
 
-import com.ujjaval.ecommerce.commondataservice.dao.sql.info.queryhelpers.context.ParamsToQueryContext;
+import com.alpha.ecommerce.commondataservice.dao.sql.info.queryhelpers.context.ParamsToQueryContext;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.controller;
+package com.alpha.ecommerce.commondataservice.controller;
 
 import com.ujjaval.ecommerce.commondataservice.dto.ProductInfoDTO;
 import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ProductInfo;

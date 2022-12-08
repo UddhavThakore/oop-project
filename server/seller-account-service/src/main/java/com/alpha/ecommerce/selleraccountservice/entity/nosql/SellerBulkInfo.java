@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.selleraccountservice.entity.nosql;
+package com.alpha.ecommerce.selleraccountservice.entity.nosql;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

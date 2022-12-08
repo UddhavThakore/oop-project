@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.authenticationservice;
+package com.alpha.ecommerce.authenticationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

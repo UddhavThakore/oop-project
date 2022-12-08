@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.authenticationservice;
+package com.alpha.ecommerce.authenticationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

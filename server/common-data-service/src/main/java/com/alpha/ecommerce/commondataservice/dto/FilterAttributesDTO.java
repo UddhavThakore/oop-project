@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.dto;
+package com.alpha.ecommerce.commondataservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

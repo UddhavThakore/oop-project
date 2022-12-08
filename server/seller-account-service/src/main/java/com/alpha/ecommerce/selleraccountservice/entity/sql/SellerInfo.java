@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.selleraccountservice.entity.sql;
+package com.alpha.ecommerce.selleraccountservice.entity.sql;
 
 import lombok.*;
 

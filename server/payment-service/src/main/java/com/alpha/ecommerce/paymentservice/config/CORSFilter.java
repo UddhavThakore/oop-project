@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.paymentservice.config;
+package com.alpha.ecommerce.paymentservice.config;
 
 import java.io.IOException;
 import javax.servlet.Filter;

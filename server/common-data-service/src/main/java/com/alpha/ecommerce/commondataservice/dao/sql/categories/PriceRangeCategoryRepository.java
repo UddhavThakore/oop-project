@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.dao.sql.categories;
+package com.alpha.ecommerce.commondataservice.dao.sql.categories;
 
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.PriceRangeCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.PriceRangeCategory;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

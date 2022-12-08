@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.authenticationservice.service;
+package com.alpha.ecommerce.authenticationservice.service;
 
-import com.ujjaval.ecommerce.authenticationservice.entity.UserInfo;
+import com.alpha.ecommerce.authenticationservice.entity.UserInfo;
 
 import java.security.NoSuchAlgorithmException;
 

@@ -1,10 +1,10 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.info;
+package com.alpha.ecommerce.commondataservice.entity.sql.info;
 
 import com.fasterxml.jackson.annotation.*;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.PriceRangeCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.PriceRangeCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

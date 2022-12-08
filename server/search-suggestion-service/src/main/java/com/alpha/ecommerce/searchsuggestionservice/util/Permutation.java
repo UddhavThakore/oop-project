@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.searchsuggestionservice.util;
+package com.alpha.ecommerce.searchsuggestionservice.util;
 
 import lombok.Getter;
 import lombok.Setter;

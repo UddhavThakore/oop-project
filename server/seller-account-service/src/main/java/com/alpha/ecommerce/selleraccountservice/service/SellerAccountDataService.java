@@ -1,8 +1,8 @@
-package com.ujjaval.ecommerce.selleraccountservice.service;
+package com.alpha.ecommerce.selleraccountservice.service;
 
 
-import com.ujjaval.ecommerce.selleraccountservice.entity.nosql.SellerBulkInfo;
-import com.ujjaval.ecommerce.selleraccountservice.entity.sql.SellerInfo;
+import com.alpha.ecommerce.selleraccountservice.entity.nosql.SellerBulkInfo;
+import com.alpha.ecommerce.selleraccountservice.entity.sql.SellerInfo;
 
 public interface SellerAccountDataService {
 

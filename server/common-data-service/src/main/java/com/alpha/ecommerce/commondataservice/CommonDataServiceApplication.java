@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice;
+package com.alpha.ecommerce.commondataservice;
 
-import com.ujjaval.ecommerce.commondataservice.controller.CommonDataController;
+import com.alpha.ecommerce.commondataservice.controller.CommonDataController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;

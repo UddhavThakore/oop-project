@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.images;
+package com.alpha.ecommerce.commondataservice.entity.sql.images;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

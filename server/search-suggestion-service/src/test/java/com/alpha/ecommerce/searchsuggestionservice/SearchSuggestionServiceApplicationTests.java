@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.searchsuggestionservice;
+package com.alpha.ecommerce.searchsuggestionservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

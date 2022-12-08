@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.utils.resulttransformers;
+package com.alpha.ecommerce.commondataservice.utils.resulttransformers;
 
 import org.hibernate.transform.ResultTransformer;
 

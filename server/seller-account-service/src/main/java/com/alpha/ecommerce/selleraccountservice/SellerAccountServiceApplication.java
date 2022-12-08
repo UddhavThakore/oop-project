@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.selleraccountservice;
+package com.alpha.ecommerce.selleraccountservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

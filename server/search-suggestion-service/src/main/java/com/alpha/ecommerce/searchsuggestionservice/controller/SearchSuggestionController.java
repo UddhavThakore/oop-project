@@ -1,7 +1,7 @@
-package com.ujjaval.ecommerce.searchsuggestionservice.controller;
+package com.alpha.ecommerce.searchsuggestionservice.controller;
 
-import com.ujjaval.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
-import com.ujjaval.ecommerce.searchsuggestionservice.service.SearchSuggestionService;
+import com.alpha.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
+import com.alpha.ecommerce.searchsuggestionservice.service.SearchSuggestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;

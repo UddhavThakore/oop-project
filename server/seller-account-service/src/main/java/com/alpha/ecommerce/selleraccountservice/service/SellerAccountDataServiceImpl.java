@@ -1,10 +1,10 @@
-package com.ujjaval.ecommerce.selleraccountservice.service;
+package com.alpha.ecommerce.selleraccountservice.service;
 
-import com.ujjaval.ecommerce.selleraccountservice.dao.nosql.SellerBulkInfoRepository;
-import com.ujjaval.ecommerce.selleraccountservice.dao.sql.*;
-import com.ujjaval.ecommerce.selleraccountservice.entity.nosql.*;
-import com.ujjaval.ecommerce.selleraccountservice.entity.sql.SellerInfo;
-import com.ujjaval.ecommerce.selleraccountservice.model.UserInfo;
+import com.alpha.ecommerce.selleraccountservice.dao.nosql.SellerBulkInfoRepository;
+import com.alpha.ecommerce.selleraccountservice.dao.sql.*;
+import com.alpha.ecommerce.selleraccountservice.entity.nosql.*;
+import com.alpha.ecommerce.selleraccountservice.entity.sql.SellerInfo;
+import com.alpha.ecommerce.selleraccountservice.model.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

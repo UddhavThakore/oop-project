@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.searchsuggestionservice.service;
+package com.alpha.ecommerce.searchsuggestionservice.service;
 
-import com.ujjaval.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
+import com.alpha.ecommerce.searchsuggestionservice.dto.SearchSuggestionKeywordInfo;
 import java.util.List;
 
 public interface SearchSuggestionService {

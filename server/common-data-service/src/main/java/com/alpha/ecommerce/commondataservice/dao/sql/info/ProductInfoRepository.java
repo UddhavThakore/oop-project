@@ -1,10 +1,10 @@
-package com.ujjaval.ecommerce.commondataservice.dao.sql.info;
+package com.alpha.ecommerce.commondataservice.dao.sql.info;
 
-import com.ujjaval.ecommerce.commondataservice.dto.SearchSuggestionForThreeAttrDTO;
-import com.ujjaval.ecommerce.commondataservice.dto.SearchSuggestionForTwoAttrDTO;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ProductInfo;
-import com.ujjaval.ecommerce.commondataservice.model.FilterAttributesResponse;
-import com.ujjaval.ecommerce.commondataservice.model.HomeTabsDataResponse;
+import com.alpha.ecommerce.commondataservice.dto.SearchSuggestionForThreeAttrDTO;
+import com.alpha.ecommerce.commondataservice.dto.SearchSuggestionForTwoAttrDTO;
+import com.alpha.ecommerce.commondataservice.entity.sql.info.ProductInfo;
+import com.alpha.ecommerce.commondataservice.model.FilterAttributesResponse;
+import com.alpha.ecommerce.commondataservice.model.HomeTabsDataResponse;
 import org.javatuples.Pair;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

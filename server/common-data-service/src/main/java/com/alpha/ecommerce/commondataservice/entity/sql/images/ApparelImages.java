@@ -1,8 +1,8 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.images;
+package com.alpha.ecommerce.commondataservice.entity.sql.images;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
+import com.alpha.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

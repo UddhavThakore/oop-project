@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.categories;
+package com.alpha.ecommerce.commondataservice.entity.sql.categories;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.authenticationservice.config;
+package com.alpha.ecommerce.authenticationservice.config;
 
 import com.ujjaval.ecommerce.authenticationservice.filter.JwtRequestFilter;
 import com.ujjaval.ecommerce.authenticationservice.service.CustomUserDetailsService;

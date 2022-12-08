@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.entity.sql.info;
+package com.alpha.ecommerce.commondataservice.entity.sql.info;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
